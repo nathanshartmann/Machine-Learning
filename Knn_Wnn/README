@@ -1,1 +1,2 @@
-Some simple implementations of classic machine learning algorithms.
+Implementation of K-Nearest Neighbors (KNN) algorithm (http://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm).
+Implementation of Weighted-Nearest Neighbors (WNN) algorithm (http://en.wikipedia.org/wiki/Nearest_neighbour_classifiers#The_weighted_nearest_neighbour_classifier)
